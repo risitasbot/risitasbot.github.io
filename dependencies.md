@@ -2,5 +2,5 @@
 
 You will need to install the following packages before starting the bot. 
 
-1. [Python](https://www.python.org/downloads/)
-2. discord.py (run command `pip3 install discord` as administrator)
+* [Python](https://www.python.org/downloads/)
+* discord.py (run command `pip3 install discord` as administrator)
