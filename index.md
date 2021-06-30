@@ -5,10 +5,10 @@ Risitas-bot is a [Discord](https://discord.com/) bot that has no specific purpos
 Risitas-bot was named in honor of Juan Joya Borja AKA. El Risitas. Rest in Peace.
 
 ### Docs
-* [Required Dependencies](risitas/dependencies.md)
-* [Frequently Asked Questions](risitas/faq.md)
-* [Starting The Bot](risitas/starting-the-bot.md)
-* [Moving the Bot Up in Discord Hierarchy](risitas/hierarchy.md)
+* [Required Dependencies](dependencies.md)
+* [Frequently Asked Questions](faq.md)
+* [Starting The Bot](starting-bot.md)
+* [Moving the Bot Up in Discord Hierarchy](hierarchy.md)
 
 ### Support
 
