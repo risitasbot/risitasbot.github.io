@@ -8,7 +8,7 @@ Q: How do I create a bot in the Discord Developer Portal? A: This [YouTube Tutor
 
 Q: Which Discord permissions will the bot need? A: I would recommend giving the bot administrator, as some commands may require those permissions.
 
-Q: How do I move my bot's role in the hierarchy? A: [Instructions](https://hbombofficial.github.io/risitas/hierarchy)
+Q: How do I move my bot's role in the hierarchy? A: [Instructions](hierarchy.md)
 
 
-If you have a question that is not listed here, feel free to open an [Issue](https://github.com/hbombofficial/Risitas-bot_discord/issues) on GitHub.
+If you have a question that is not listed here, feel free to open an [Issue](https://github.com/hbombofficial/Risitas-discord/issues) on GitHub.
