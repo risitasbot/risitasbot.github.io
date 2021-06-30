@@ -1,8 +1,8 @@
 # Risitas Documentation
 
-Risitas-bot is a [Discord](https://discord.com/) bot that has no specific purpose just yet.
+Risitas is a [Discord](https://discord.com/) bot that has no specific purpose just yet.
 
-Risitas-bot was named in honor of Juan Joya Borja AKA. El Risitas. Rest in Peace.
+Risitas was named in honor of Juan Joya Borja AKA. El Risitas. Rest in Peace.
 
 ### Docs
 * [Required Dependencies](dependencies.md)
