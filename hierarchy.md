@@ -1,4 +1,5 @@
-# Moving the Bot's Role in Discord Hierarchy
+# Risitas Documentation
+## Moving the Bot's Role in Discord Hierarchy
 Make sure the bot has been invited to your server before you attempt to complete these steps.
 
 ***NOTE: You MUST be an administrator in the server, or else these instructions will not work.***
