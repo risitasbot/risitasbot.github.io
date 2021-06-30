@@ -1,4 +1,5 @@
-# Dependencies 
+# Risitas Documentation
+## Dependencies 
 
 You will need to install the following packages before starting the bot. 
 
