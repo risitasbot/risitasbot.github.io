@@ -9,7 +9,6 @@ Risitas was named in honor of Juan Joya Borja AKA. El Risitas. Rest in Peace.
 * [Frequently Asked Questions](docs/faq.md)
 * [Starting The Bot](docs/starting-bot.md)
 * [Moving the Bot Up in Discord Hierarchy](docs/hierarchy.md)
-* [Changelog](docs/CHANGELOG.md)
 * [List of Commands](docs/commands.md)
 
 ### Support
