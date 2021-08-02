@@ -5,4 +5,5 @@
 * !rule | Server Rules. These must be set in Risitas' code
 * !meme | Sends a random reddit meme in chat
 * KEKWprefix | Sends Risitas' current prefix in chat
-* !ban | Self Explanatory, bans command target
+* !ban | bans command target from server
+* !kick | kicks command target from server
